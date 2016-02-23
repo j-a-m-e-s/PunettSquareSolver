@@ -1,1 +1,3 @@
 # PunettSquareSolver
+
+solves squares
